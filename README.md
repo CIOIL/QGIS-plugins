@@ -1,5 +1,5 @@
 # QGIS-plugins
-Contributed by Survey of Israel
+Contributed by Survey of Israel / Reuven Wittenberg, code by: Aria Akum
 # Planning Administration QGIS Plug-In
 
 ## Background
